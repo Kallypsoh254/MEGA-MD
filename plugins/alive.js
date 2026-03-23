@@ -5,22 +5,31 @@ export default {
     usage: '.alive',
     async handler(sock, message) {
         const chatId = message.key.remoteJid;
-        const caption = `╔══════════════════════════╗\n` +
-                        `  💀 DARKCORE BOT IS ALIVE\n` +
-                        `╚══════════════════════════╝\n\n` +
-                        `👤 *Owner:* +254797510941\n` +
-                        `🚀 *Version:* 1.0.0\n` +
-                        `🛡️ *Status:* Elite Cybersecurity Edition\n\n` +
-                        `_Type .menu to see all commands_`;
+        const banner = `
+   ▄▄▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄▄   ▄▄▄▄▄▄▄ ▄▄▄▄▄▄   ▄▄▄▄▄▄▄ 
+  █       █  █ █  █   ▄  █ █       █   ▄  █ █       █
+  █   ▄   █  █ █  █  █ █ █ █   ▄   █  █ █ █ █   ▄   █
+  █  █▄█  █  █▄█  █   █▄▄█▄█  █ █  █   █▄▄█▄█  █▄█  █
+  █       █       █    ▄▄  █  █▄█  █    ▄▄  █       █
+  █   ▄   █       █   █  █ █       █   █  █ █   ▄   █
+  █▄▄█ █▄▄█▄▄▄▄▄▄▄█▄▄▄█  █▄█▄▄▄▄▄▄▄█▄▄▄█  █▄█▄▄█ █▄▄█
+  
+  ✨ AURORA BOT IS ALIVE
+  🛡️ Elite Cybersecurity Edition
+  🚀 Version: 1.0.0
+  👤 Owner: +254797510941
+  
+  _Type .menu to see all commands_
+  `.trim();
 
         await sock.sendMessage(chatId, { 
-            text: caption,
+            text: banner,
             contextInfo: {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363319098372999@newsletter',
-                    newsletterName: 'DARKCORE ELITE',
+                    newsletterName: 'AURORA ELITE',
                     serverMessageId: -1
                 }
             }
