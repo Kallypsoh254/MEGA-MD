@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MEGA-MD&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20Performance%20WhatsApp%20Bot&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AURORA&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20Performance%20WhatsApp%20Bot&descAlignY=55&descSize=20" width="100%"/>
 
 <br/>
 
@@ -8,11 +8,11 @@
 
 <br/>
 
-[![Version](https://img.shields.io/badge/Version-6.0.0-blue?style=for-the-badge&logo=github)](https://github.com/GlobalTechInfo/MEGA-MD)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/GlobalTechInfo/AURORA)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![WhatsApp](https://img.shields.io/badge/Baileys-7.x-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
-[![Stars](https://img.shields.io/github/stars/GlobalTechInfo/MEGA-MD?style=for-the-badge&logo=starship&color=gold)](https://github.com/GlobalTechInfo/MEGA-MD/stargazers)
-[![Forks](https://img.shields.io/github/forks/GlobalTechInfo/MEGA-MD?style=for-the-badge&logo=git&color=orange)](https://github.com/GlobalTechInfo/MEGA-MD/network/members)
+[![Stars](https://img.shields.io/github/stars/GlobalTechInfo/AURORA?style=for-the-badge&logo=starship&color=gold)](https://github.com/GlobalTechInfo/AURORA/stargazers)
+[![Forks](https://img.shields.io/github/forks/GlobalTechInfo/AURORA?style=for-the-badge&logo=git&color=orange)](https://github.com/GlobalTechInfo/AURORA/network/members)
 
 <br/>
 
@@ -112,8 +112,8 @@
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/GlobalTechInfo/MEGA-MD.git
-cd MEGA-MD
+git clone https://github.com/GlobalTechInfo/AURORA.git
+cd AURORA
 npm install
 cp sample.env .env
 # Edit .env → add SESSION_ID and OWNER_NUMBER
@@ -150,7 +150,7 @@ npm start
 ### Step 3 — Add to `.env`
 
 ```env
-SESSION_ID=GlobalTechInfo/MEGA-MD_xxxxxxxxxxxxxxxxxxxxxxxx
+SESSION_ID=GlobalTechInfo/AURORA_xxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ### Alternative — Pairing via terminal
@@ -176,7 +176,7 @@ cp sample.env .env
 
 ```env
 # ── REQUIRED (choose one) ────────────────────────────────────
-SESSION_ID=GlobalTechInfo/MEGA-MD_your_gist_id_here
+SESSION_ID=GlobalTechInfo/AURORA_your_gist_id_here
 # OR
 PAIRING_NUMBER=923001234567
 
@@ -184,9 +184,9 @@ PAIRING_NUMBER=923001234567
 OWNER_NUMBER=923000000000        # No + sign
 
 # ── BOT IDENTITY ─────────────────────────────────────────────
-BOT_NAME=MEGA-MD-PRO
+BOT_NAME=AURORA-PRO
 BOT_OWNER=GlobalTechInfo
-PACKNAME=MEGA-MD
+PACKNAME=AURORA
 
 # ── BEHAVIOUR ────────────────────────────────────────────────
 PREFIXES=.,!,/                   # Comma-separated
@@ -216,8 +216,8 @@ DB_URL=                          # SQLite: ./data/baileys.db
 
 ```bash
 # 1. Clone
-git clone https://github.com/GlobalTechInfo/MEGA-MD.git
-cd MEGA-MD
+git clone https://github.com/GlobalTechInfo/AURORA.git
+cd AURORA
 
 # 2. Install dependencies
 npm install
@@ -233,15 +233,15 @@ npm start
 ### One-Line VPS Installer
 
 ```bash
-sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/MEGA-MD/main/lib/install.sh)
+sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/install.sh)
 ```
 > [!IMPORTANT]
 > This automatically installs Node.js 20, ffmpeg, libvips, libwebp, PM2, clones the repo, builds it, and sets up data files.
 
 ```bash
 # After install:
-nano /root/MEGA-MD/.env
-cd /root/MEGA-MD && pm2 start dist/index.js --name mega-md
+nano /root/AURORA/.env
+cd /root/AURORA && pm2 start dist/index.js --name mega-md
 pm2 save && pm2 startup
 ```
 
@@ -265,8 +265,8 @@ apt update && apt upgrade -y
 apt install -y git ffmpeg build-essential libvips-dev webp nodejs npm curl
 
 # Clone and setup
-git clone https://github.com/GlobalTechInfo/MEGA-MD.git
-cd MEGA-MD
+git clone https://github.com/GlobalTechInfo/AURORA.git
+cd AURORA
 npm install
 cp sample.env .env && nano .env
 npm start
@@ -295,7 +295,7 @@ npm start
 
 **One-line install (recommended):**
 ```bash
-sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/MEGA-MD/main/lib/install.sh)
+sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/install.sh)
 ```
 
 **Manual:**
@@ -303,8 +303,8 @@ sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/MEGA-MD/
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs git ffmpeg libvips-dev libwebp-dev build-essential
 
-git clone https://github.com/GlobalTechInfo/MEGA-MD.git
-cd MEGA-MD
+git clone https://github.com/GlobalTechInfo/AURORA.git
+cd AURORA
 npm install
 cp sample.env .env && nano .env
 
@@ -335,8 +335,8 @@ sudo apt update
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs git ffmpeg libvips-dev libwebp-dev build-essential
 
-git clone https://github.com/GlobalTechInfo/MEGA-MD.git
-cd MEGA-MD
+git clone https://github.com/GlobalTechInfo/AURORA.git
+cd AURORA
 npm install
 cp sample.env .env && nano .env
 npm start
@@ -351,12 +351,12 @@ npm start
 > The repo includes pre-configured `.replit` and `replit.nix`.
 
 1. Go to [replit.com](https://replit.com) → **Create Repl** → **Import from GitHub**
-2. Paste: `https://github.com/GlobalTechInfo/MEGA-MD`
+2. Paste: `https://github.com/GlobalTechInfo/AURORA`
 3. Open **Secrets** tab (🔒) and add:
 
    | Key | Value |
    |---|---|
-   | `SESSION_ID` | `GlobalTechInfo/MEGA-MD_your_gist_id` |
+   | `SESSION_ID` | `GlobalTechInfo/AURORA_your_gist_id` |
    | `OWNER_NUMBER` | `923001234567` |
 
 4. Click **Run**
@@ -380,7 +380,7 @@ npm start
 
 **One-line Deployer:**
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/GlobalTechInfo/MEGA-MD/main/lib/heroku.sh)
+bash <(curl -s https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/heroku.sh)
 ```
 **Manual:**
 ```bash
@@ -388,7 +388,7 @@ heroku login
 heroku create your-bot-name
 heroku stack:set container
 
-heroku config:set SESSION_ID=GlobalTechInfo/MEGA-MD_your_gist_id
+heroku config:set SESSION_ID=GlobalTechInfo/AURORA_your_gist_id
 heroku config:set OWNER_NUMBER=923001234567
 heroku config:set MONGO_URL=your_mongodb_url   # Recommended
 
@@ -434,7 +434,7 @@ heroku logs --tail
 
    | Key | Value |
    |---|---|
-   | `SESSION_ID` | `GlobalTechInfo/MEGA-MD_your_gist_id` |
+   | `SESSION_ID` | `GlobalTechInfo/AURORA_your_gist_id` |
    | `OWNER_NUMBER` | `923001234567` |
 
 5. Railway auto-builds via `Dockerfile` and deploys
@@ -463,7 +463,7 @@ heroku logs --tail
 
 **One-line Deployer:**
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/GlobalTechInfo/MEGA-MD/main/lib/fly.sh)
+bash <(curl -s https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/fly.sh)
 ```
 **Manual:**
 ```bash
@@ -471,7 +471,7 @@ curl -L https://fly.io/install.sh | sh
 fly auth login
 
 fly launch --no-deploy
-fly secrets set SESSION_ID=GlobalTechInfo/MEGA-MD_your_gist_id
+fly secrets set SESSION_ID=GlobalTechInfo/AURORA_your_gist_id
 fly secrets set OWNER_NUMBER=923001234567
 fly deploy
 
@@ -494,7 +494,7 @@ docker build -t mega-md .
 
 # Run
 docker run -d \
-  -e SESSION_ID=GlobalTechInfo/MEGA-MD_your_gist_id \
+  -e SESSION_ID=GlobalTechInfo/AURORA_your_gist_id \
   -e OWNER_NUMBER=923001234567 \
   -p 5000:5000 \
   --name mega-md \
@@ -564,9 +564,9 @@ DB_URL=./data/baileys.db
 | `SESSION_ID` | ✅ *one of* | — | From mega-pairing.onrender.com |
 | `PAIRING_NUMBER` | ✅ *one of* | — | Phone number for terminal pairing |
 | `OWNER_NUMBER` | ✅ | `923051391007` | Your number, no `+` |
-| `BOT_NAME` | ❌ | `MEGA-MD` | Bot display name |
+| `BOT_NAME` | ❌ | `AURORA` | Bot display name |
 | `BOT_OWNER` | ❌ | `Qasim Ali` | Owner display name |
-| `PACKNAME` | ❌ | `MEGA-MD` | Sticker pack name |
+| `PACKNAME` | ❌ | `AURORA` | Sticker pack name |
 | `PREFIXES` | ❌ | `.,!,/,#` | Comma-separated prefixes |
 | `COMMAND_MODE` | ❌ | `public` | `public` or `private` |
 | `TIMEZONE` | ❌ | `Asia/Karachi` | Your timezone |
@@ -631,7 +631,7 @@ export default {
             rawText,          // Full message text
             userMessage,      // Lowercase message
             config,           // Bot configuration 
-            channelInfo       // MEGA-MD branding spread
+            channelInfo       // AURORA branding spread
         } = context;
 
         await sock.sendMessage(chatId, {
@@ -649,7 +649,7 @@ export default {
 ### Bot not connecting
 
 > [!IMPORTANT]
-> - Verify `SESSION_ID` starts with `GlobalTechInfo/MEGA-MD_`
+> - Verify `SESSION_ID` starts with `GlobalTechInfo/AURORA_`
 > - If using `PAIRING_NUMBER`, link within 60 seconds of the code appearing
 > - Reset session and reconnect: `npm run reset-session && npm start`
 
@@ -731,7 +731,7 @@ npm run test:watch      # Watch mode during development
 
 [![Telegram](https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Global_TechInfo)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
-[![GitHub Issues](https://img.shields.io/badge/GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlobalTechInfo/MEGA-MD/issues)
+[![GitHub Issues](https://img.shields.io/badge/GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlobalTechInfo/AURORA/issues)
 
 </div>
 

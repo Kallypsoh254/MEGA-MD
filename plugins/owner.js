@@ -5,7 +5,7 @@ export default {
     usage: '.owner',
     async handler(sock, message) {
         const chatId = message.key.remoteJid;
-        const ownerNumber = '254797510941';
+        const ownerNumber = "254797510941";
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
                       'FN:AURORA OWNER\n' +
