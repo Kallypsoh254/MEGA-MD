@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AURORA&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=High%20Performance%20WhatsApp%20Bot&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AURORA&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Elite%20Cybersecurity%20WhatsApp%20Bot&descAlignY=55&descSize=20" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=Multi-Device+WhatsApp+Bot;250%2B+Commands+%26+Counting;Plugin+Architecture+%7C+Auto-Loading;Deploy+Anywhere+in+Minutes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=25D366&center=true&vCenter=true&width=600&lines=Elite+Cybersecurity+WhatsApp+Bot;250%2B+Commands+%26+Counting;Plugin+Architecture+%7C+Auto-Loading;Deploy+Anywhere+in+Minutes)](https://git.io/typing-svg)
 
 <br/>
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/GlobalTechInfo/AURORA)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/Kallypsoh254/MEGA-MD)
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![WhatsApp](https://img.shields.io/badge/Baileys-7.x-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/WhiskeySockets/Baileys)
-[![Stars](https://img.shields.io/github/stars/GlobalTechInfo/AURORA?style=for-the-badge&logo=starship&color=gold)](https://github.com/GlobalTechInfo/AURORA/stargazers)
-[![Forks](https://img.shields.io/github/forks/GlobalTechInfo/AURORA?style=for-the-badge&logo=git&color=orange)](https://github.com/GlobalTechInfo/AURORA/network/members)
+[![Stars](https://img.shields.io/github/stars/Kallypsoh254/MEGA-MD?style=for-the-badge&logo=starship&color=gold)](https://github.com/Kallypsoh254/MEGA-MD/stargazers)
+[![Forks](https://img.shields.io/github/forks/Kallypsoh254/MEGA-MD?style=for-the-badge&logo=git&color=orange)](https://github.com/Kallypsoh254/MEGA-MD/network/members)
 
 <br/>
 
@@ -90,6 +90,11 @@
 | 🎮 | **Games** | TicTacToe and more built in |
 | ⏳ | **Disappearing Messages** | Set per-chat or default timers via commands |
 | 📱 | **Multi-Platform** | Runs on Termux, VPS, Railway, Render, Heroku, Koyeb, Fly.io, Replit |
+| 💀 | **Elite Cybersecurity Tools** | Reconnaissance, DNS lookup, Port scanning, SSL checks, HTTP headers, Subdomain enumeration, CVE lookup, Wayback Machine, Robots.txt, Traceroute |
+| 🧠 | **Advanced AI Capabilities** | Gemini AI chat, DALL-E image generation |
+| ⬇️ | **Comprehensive Downloaders** | YouTube (audio), TikTok, Instagram, Facebook, Spotify |
+| 🖼️ | **Rich Media Processing** | Image to sticker, sticker to image, image blur, animated text stickers |
+| 🌐 | **General Utilities** | Weather information, language translation |
 
 ---
 
@@ -112,8 +117,8 @@
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/GlobalTechInfo/AURORA.git
-cd AURORA
+git clone https://github.com/Kallypsoh254/MEGA-MD.git
+cd MEGA-MD
 npm install
 cp sample.env .env
 # Edit .env → add SESSION_ID and OWNER_NUMBER
@@ -150,7 +155,7 @@ npm start
 ### Step 3 — Add to `.env`
 
 ```env
-SESSION_ID=GlobalTechInfo/AURORA_xxxxxxxxxxxxxxxxxxxxxxxx
+SESSION_ID=Kallypsoh254/MEGA-MD_your_gist_id_here
 ```
 
 ### Alternative — Pairing via terminal
@@ -158,7 +163,7 @@ SESSION_ID=GlobalTechInfo/AURORA_xxxxxxxxxxxxxxxxxxxxxxxx
 Leave `SESSION_ID` empty and set:
 
 ```env
-PAIRING_NUMBER=923001234567
+PAIRING_NUMBER=254797510941
 ```
 
 > [!NOTE]
@@ -176,22 +181,22 @@ cp sample.env .env
 
 ```env
 # ── REQUIRED (choose one) ────────────────────────────────────
-SESSION_ID=GlobalTechInfo/AURORA_your_gist_id_here
+SESSION_ID=Kallypsoh254/MEGA-MD_your_gist_id_here
 # OR
-PAIRING_NUMBER=923001234567
+PAIRING_NUMBER=254797510941
 
 # ── REQUIRED ─────────────────────────────────────────────────
-OWNER_NUMBER=923000000000        # No + sign
+OWNER_NUMBER=254797510941        # No + sign
 
 # ── BOT IDENTITY ─────────────────────────────────────────────
-BOT_NAME=AURORA-PRO
-BOT_OWNER=GlobalTechInfo
+BOT_NAME=AURORA BOT
+BOT_OWNER=AURORA OWNER
 PACKNAME=AURORA
 
 # ── BEHAVIOUR ────────────────────────────────────────────────
 PREFIXES=.,!,/                   # Comma-separated
 COMMAND_MODE=public              # public or private
-TIMEZONE=Asia/Karachi
+TIMEZONE=Africa/Nairobi
 
 # ── OPTIONAL API KEYS ────────────────────────────────────────
 REMOVEBG_KEY=                    # https://remove.bg/api
@@ -216,8 +221,8 @@ DB_URL=                          # SQLite: ./data/baileys.db
 
 ```bash
 # 1. Clone
-git clone https://github.com/GlobalTechInfo/AURORA.git
-cd AURORA
+git clone https://github.com/Kallypsoh254/MEGA-MD.git
+cd MEGA-MD
 
 # 2. Install dependencies
 npm install
@@ -233,7 +238,7 @@ npm start
 ### One-Line VPS Installer
 
 ```bash
-sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/install.sh)
+sudo bash <(curl -fsSL https://raw.githubusercontent.com/Kallypsoh254/MEGA-MD/main/lib/install.sh)
 ```
 > [!IMPORTANT]
 > This automatically installs Node.js 20, ffmpeg, libvips, libwebp, PM2, clones the repo, builds it, and sets up data files.
@@ -241,7 +246,7 @@ sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/AURORA/m
 ```bash
 # After install:
 nano /root/AURORA/.env
-cd /root/AURORA && pm2 start dist/index.js --name mega-md
+cd /root/AURORA && pm2 start dist/index.js --name aurora-md
 pm2 save && pm2 startup
 ```
 
@@ -265,8 +270,8 @@ apt update && apt upgrade -y
 apt install -y git ffmpeg build-essential libvips-dev webp nodejs npm curl
 
 # Clone and setup
-git clone https://github.com/GlobalTechInfo/AURORA.git
-cd AURORA
+git clone https://github.com/Kallypsoh254/MEGA-MD.git
+cd MEGA-MD
 npm install
 cp sample.env .env && nano .env
 npm start
@@ -277,13 +282,13 @@ npm start
 ```bash
 apt install tmux -y
 
-tmux new -s mega-md    # Start new session
+tmux new -s aurora-md    # Start new session
 npm start
 
 # Detach:     Ctrl+B → D
-# Re-attach:  tmux attach -t mega-md
+# Re-attach:  tmux attach -t aurora-md
 # List:       tmux ls
-# Kill:       tmux kill-session -t mega-md
+# Kill:       tmux kill-session -t aurora-md
 ```
 
 ---
@@ -295,291 +300,191 @@ npm start
 
 **One-line install (recommended):**
 ```bash
-sudo bash <(curl -fsSL https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/install.sh)
+sudo bash <(curl -fsSL https://raw.githubusercontent.com/Kallypsoh254/MEGA-MD/main/lib/install.sh)
 ```
 
-**Manual:**
+**Manual Install:**
+
 ```bash
-curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
-sudo apt install -y nodejs git ffmpeg libvips-dev libwebp-dev build-essential
+# 1. Update & Install Dependencies
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y git ffmpeg build-essential libvips-dev webp nodejs npm curl
 
-git clone https://github.com/GlobalTechInfo/AURORA.git
-cd AURORA
+# 2. Clone Repository
+git clone https://github.com/Kallypsoh254/MEGA-MD.git
+cd MEGA-MD
+
+# 3. Install Node.js Dependencies
 npm install
-cp sample.env .env && nano .env
 
-# Keep alive with PM2
-npm install -g pm2
-pm2 start dist/index.js --name mega-md
-pm2 save && pm2 startup
+# 4. Configure Environment Variables
+cp sample.env .env
+nano .env # Edit .env with your SESSION_ID and OWNER_NUMBER
+
+# 5. Start the Bot
+npm start
 ```
 
-**PM2 commands:**
+**Keep running after closing SSH:**
 
-| Command | Description |
-|---|---|
-| `pm2 logs mega-md` | Live logs |
-| `pm2 restart mega-md` | Restart |
-| `pm2 stop mega-md` | Stop |
-| `pm2 status` | Status overview |
+```bash
+sudo apt install tmux -y
+
+tmux new -s aurora-md
+npm start
+
+# Detach: Ctrl+B -> D
+# Re-attach: tmux attach -t aurora-md
+```
 
 ---
 
-### 🪟 Windows (WSL)
+### 🪟 Windows WSL
 
-[![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://microsoft.com/windows)
+[![Windows](https://img.shields.io/badge/Windows_WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-```bash
-# In WSL Ubuntu terminal
-sudo apt update
-curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
-sudo apt install -y nodejs git ffmpeg libvips-dev libwebp-dev build-essential
-
-git clone https://github.com/GlobalTechInfo/AURORA.git
-cd AURORA
-npm install
-cp sample.env .env && nano .env
-npm start
-```
+1. Install WSL (Windows Subsystem for Linux) and a Linux distribution (e.g., Ubuntu).
+2. Follow the **VPS Linux Server** instructions within your WSL terminal.
 
 ---
 
 ### 🔁 Replit
 
-[![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)](https://replit.com)
-> [!NOTE]
-> The repo includes pre-configured `.replit` and `replit.nix`.
+[![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com)
 
-1. Go to [replit.com](https://replit.com) → **Create Repl** → **Import from GitHub**
-2. Paste: `https://github.com/GlobalTechInfo/AURORA`
-3. Open **Secrets** tab (🔒) and add:
-
-   | Key | Value |
-   |---|---|
-   | `SESSION_ID` | `GlobalTechInfo/AURORA_your_gist_id` |
-   | `OWNER_NUMBER` | `923001234567` |
-
-4. Click **Run**
-
-`replit.nix` automatically installs: Node.js 20, ffmpeg, imagemagick, libwebp, SQLite, pm2 etc.
-
-> [!TIP]
-> Free Replit instances sleep after inactivity. Use [UptimeRobot](https://uptimerobot.com) to ping your Replit URL every 5 minutes to keep it alive.
-> [!NOTE]
-> Production deployment uses `npm run start:optimized` (512MB memory limit) — configured in `.replit`'s `[deployment]` section.
+1. Create a new Repl and select `Node.js` as the template.
+2. Open the `Shell` tab and run:
+   ```bash
+   git clone https://github.com/Kallypsoh254/MEGA-MD.git .
+   npm install
+   cp sample.env .env
+   # Edit .env with your SESSION_ID and OWNER_NUMBER
+   npm start
+   ```
+3. Ensure `always-on` is enabled for continuous operation.
 
 ---
 
 ### 🟣 Heroku
 
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://heroku.com)
-> [!NOTE]
-> The repo includes `heroku.yml` and `app.json` for Docker-based deployment.
-> 
-> Either you can deploy via dashboard or using heroku cli
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 
-**One-line Deployer:**
-```bash
-bash <(curl -s https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/heroku.sh)
-```
-**Manual:**
-```bash
-heroku login
-heroku create your-bot-name
-heroku stack:set container
-
-heroku config:set SESSION_ID=GlobalTechInfo/AURORA_your_gist_id
-heroku config:set OWNER_NUMBER=923001234567
-heroku config:set MONGO_URL=your_mongodb_url   # Recommended
-
-git push heroku main
-heroku ps:scale web=1
-heroku logs --tail
-```
-
-> [!IMPORTANT]
-> Heroku's filesystem is **ephemeral** — data is lost on restart. Use MongoDB or PostgreSQL for persistent storage.
-> [!NOTE]
-> Heroku uses `heroku.yml` → Docker build → runs `npm run start:optimized`.
+1. Create a new app on Heroku.
+2. Link your GitHub repository (`Kallypsoh254/MEGA-MD`).
+3. Configure environment variables in `Settings -> Config Vars` (e.g., `SESSION_ID`, `OWNER_NUMBER`).
+4. Deploy the `darkcore-v1.0.0` branch.
 
 ---
 
 ### 🎨 Render
 
-[![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com)
-> [!NOTE]
-> The repo includes `render.yaml` for one-click Blueprint deployment.
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
 
-1. Fork this repo
-2. [render.com](https://render.com) → **New** → **Blueprint** → connect your fork
-3. Render reads `render.yaml` automatically
-4. Set environment variables in the dashboard:
-   - `SESSION_ID`
-   - `OWNER_NUMBER`
-5. Deploy
-
-> [!IMPORTANT]
-> Render uses Docker (`Dockerfile`) and runs `npm run start:optimized`. Use a database for persistent storage on Render's free tier.
+1. Create a new `Web Service` on Render.
+2. Connect your GitHub repository (`Kallypsoh254/MEGA-MD`).
+3. Set `Build Command`: `npm install`
+4. Set `Start Command`: `npm start`
+5. Add environment variables (e.g., `SESSION_ID`, `OWNER_NUMBER`).
+6. Deploy the `darkcore-v1.0.0` branch.
 
 ---
 
 ### 🚂 Railway
 
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](https://railway.app)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
 
-1. Fork this repo
-2. [railway.app](https://railway.app) → **New Project** → **Deploy from GitHub Repo**
-3. Select your fork
-4. **Variables** tab → add:
-
-   | Key | Value |
-   |---|---|
-   | `SESSION_ID` | `GlobalTechInfo/AURORA_your_gist_id` |
-   | `OWNER_NUMBER` | `923001234567` |
-
-5. Railway auto-builds via `Dockerfile` and deploys
+1. Create a new project on Railway.
+2. Connect your GitHub repository (`Kallypsoh254/MEGA-MD`).
+3. Add environment variables (e.g., `SESSION_ID`, `OWNER_NUMBER`).
+4. Deploy the `darkcore-v1.0.0` branch.
 
 ---
 
 ### ☁️ Koyeb
 
-[![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=flat-square&logo=koyeb&logoColor=white)](https://app.koyeb.com)
+[![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://koyeb.com)
 
-1. Fork this repo
-2. [app.koyeb.com](https://app.koyeb.com) → **Create App** → **GitHub**
-3. Select your fork — Koyeb reads `koyeb.yaml`
-4. Set `SESSION_ID` and `OWNER_NUMBER` in env vars
-5. Deploy
+1. Create a new app on Koyeb.
+2. Connect your GitHub repository (`Kallypsoh254/MEGA-MD`).
+3. Set `Build Command`: `npm install`
+4. Set `Run Command`: `npm start`
+5. Add environment variables (e.g., `SESSION_ID`, `OWNER_NUMBER`).
+6. Deploy the `darkcore-v1.0.0` branch.
 
 ---
 
 ### 🪂 Fly.io
 
-[![Fly.io](https://img.shields.io/badge/Fly.io-7B3FE4?style=flat-square&logo=flydotio&logoColor=white)](https://fly.io)
-> [!NOTE]
-> The repo includes `fly.toml` pre-configured (512MB RAM, port 5000, region: US East).
-> 
-> Either deploy via dashboard or using cli
+[![Fly.io](https://img.shields.io/badge/Fly.io-7B3FE4?style=for-the-badge&logo=flydotio&logoColor=white)](https://fly.io)
 
-**One-line Deployer:**
-```bash
-bash <(curl -s https://raw.githubusercontent.com/GlobalTechInfo/AURORA/main/lib/fly.sh)
-```
-**Manual:**
-```bash
-curl -L https://fly.io/install.sh | sh
-fly auth login
-
-fly launch --no-deploy
-fly secrets set SESSION_ID=GlobalTechInfo/AURORA_your_gist_id
-fly secrets set OWNER_NUMBER=923001234567
-fly deploy
-
-fly logs   # View logs
-```
-
-`fly.toml` settings: auto-start enabled, auto-stop **disabled** so the bot stays running 24/7.
+1. Install `flyctl` CLI.
+2. Run `fly launch` in your cloned repository.
+3. Configure `fly.toml` and environment variables (e.g., `SESSION_ID`, `OWNER_NUMBER`).
+4. Deploy using `fly deploy`.
 
 ---
 
 ### 🐳 Dockerfile
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-> [!NOTE]
-> The repo includes a `Dockerfile` for any Docker-compatible platform.
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
-```bash
-# Build image
-docker build -t mega-md .
-
-# Run
-docker run -d \
-  -e SESSION_ID=GlobalTechInfo/AURORA_your_gist_id \
-  -e OWNER_NUMBER=923001234567 \
-  -p 5000:5000 \
-  --name mega-md \
-  mega-md
-
-# Logs
-docker logs -f mega-md
-```
+1. Build the Docker image:
+   ```bash
+   docker build -t aurora-bot .
+   ```
+2. Run the container:
+   ```bash
+   docker run -d -p 5000:5000 --name aurora-bot \
+     -e SESSION_ID="your_session_id" \
+     -e OWNER_NUMBER="254797510941" \
+     aurora-bot
+   ```
 
 ---
 
 ### 🎮 Discord Panels (Pterodactyl)
-> [!IMPORTANT]
-> For Pterodactyl-based hosting panels (Fosshost, Skynode, Optiklink etc.):
-> Use brave browser or any adguard to avoid ads from hosting panels
 
-1. Create server with a **Node.js 20+ egg**
-2. Set startup command:
-   ```
-   npm install && npm start
-   ```
-3. Upload files via SFTP or file manager
-4. Add env vars in the **Startup** tab: `SESSION_ID`, `OWNER_NUMBER`
-5. Start the server
-
-> [!IMPORTANT]
-> Ensure the egg uses **Node.js 20 or newer**. If your panel supports Docker, use the included `Dockerfile` instead for best compatibility.
+1. Upload the bot files to your Pterodactyl panel.
+2. Configure the startup command to `npm start`.
+3. Set environment variables in the panel settings.
 
 ---
 
 ## 🗄️ Storage Backends
 
-> [!NOTE]
-> Set one database URL in `.env`. If all are empty, JSON file storage is used automatically — no setup needed.
+AURORA supports multiple database backends. If no database URL is provided, it defaults to JSON files.
 
-| Backend | Badge | Best For |
+| Database | Environment Variable | Example URL |
 |---|---|---|
-| **JSON Files** | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) | Local, Termux |
-| **MongoDB** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Cloud (recommended) |
-| **PostgreSQL** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | Cloud / VPS |
-| **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | Cloud / VPS |
-| **SQLite** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | VPS (no external DB) |
-
-```env
-# MongoDB
-MONGO_URL=mongodb+srv://user:password@cluster.mongodb.net/megamd
-
-# PostgreSQL
-POSTGRES_URL=postgresql://user:password@host:5432/megamd
-
-# MySQL
-MYSQL_URL=mysql://user:password@host:3306/megamd
-
-# SQLite
-DB_URL=./data/baileys.db
-```
-
-> [!TIP]
-> Get a free MongoDB cluster at [MongoDB Atlas](https://cloud.mongodb.com) — best choice for cloud deployments where the filesystem resets.
+| ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) | (Default) | `(Uses local files)` |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `MONGO_URL` | `mongodb+srv://user:pass@cluster.mongodb.net/mydb` |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | `POSTGRES_URL` | `postgresql://user:pass@host:port/mydb` |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | `MYSQL_URL` | `mysql://user:pass@host:port/mydb` |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | `DB_URL` | `./data/baileys.db` |
 
 ---
 
 ## 🛠️ Environment Variables
 
-| Variable | Required | Default | Description |
+| Variable | Description | Default Value | Example |
 |---|---|---|---|
-| `SESSION_ID` | ✅ *one of* | — | From mega-pairing.onrender.com |
-| `PAIRING_NUMBER` | ✅ *one of* | — | Phone number for terminal pairing |
-| `OWNER_NUMBER` | ✅ | `923051391007` | Your number, no `+` |
-| `BOT_NAME` | ❌ | `AURORA` | Bot display name |
-| `BOT_OWNER` | ❌ | `Qasim Ali` | Owner display name |
-| `PACKNAME` | ❌ | `AURORA` | Sticker pack name |
-| `PREFIXES` | ❌ | `.,!,/,#` | Comma-separated prefixes |
-| `COMMAND_MODE` | ❌ | `public` | `public` or `private` |
-| `TIMEZONE` | ❌ | `Asia/Karachi` | Your timezone |
-| `PORT` | ❌ | `5000` | HTTP server port |
-| `MAX_STORE_MESSAGES` | ❌ | `20` | Messages stored per chat |
-| `REMOVEBG_KEY` | ❌ | — | [remove.bg](https://remove.bg) API key |
-| `GIPHY_API_KEY` | ❌ | — | [Giphy](https://developers.giphy.com) API key |
-| `MONGO_URL` | ❌ | — | MongoDB connection string |
-| `POSTGRES_URL` | ❌ | — | PostgreSQL connection string |
-| `MYSQL_URL` | ❌ | — | MySQL connection string |
-| `DB_URL` | ❌ | — | SQLite file path |
-| `CLEANUP_INTERVAL` | ❌ | `3600000` | Temp cleanup interval (ms) |
-| `STORE_WRITE_INTERVAL` | ❌ | `10000` | Store write interval (ms) |
+| `SESSION_ID` | WhatsApp session ID (required if `PAIRING_NUMBER` is not set) | `''` | `Kallypsoh254/MEGA-MD_your_gist_id_here` |
+| `PAIRING_NUMBER` | Your WhatsApp number for pairing code (required if `SESSION_ID` is not set) | `''` | `254797510941` |
+| `OWNER_NUMBER` | Bot owner's WhatsApp number (without `+`) | `254797510941` | `254797510941` |
+| `BOT_NAME` | Name of the bot | `AURORA BOT` | `AURORA BOT` |
+| `BOT_OWNER` | Name of the bot owner | `AURORA OWNER` | `AURORA OWNER` |
+| `PACKNAME` | Sticker pack name | `AURORA` | `AURORA` |
+| `PREFIXES` | Command prefixes (comma-separated) | `.,!,/` | `.,!,#,` |
+| `COMMAND_MODE` | Bot command mode | `public` | `private` |
+| `TIMEZONE` | Timezone for bot operations | `Africa/Nairobi` | `America/New_York` |
+| `REMOVEBG_KEY` | API key for remove.bg service | `''` | `your_removebg_api_key` |
+| `GIPHY_API_KEY` | API key for Giphy service | `qnl7ssQChTdPjsKta2Ax2LMaGXz303tq` | `your_giphy_api_key` |
+| `PORT` | Port for the web server | `5000` | `8080` |
+| `MAX_STORE_MESSAGES` | Max messages to store in memory | `50` | `100` |
+| `MONGO_URL` | MongoDB connection URL | `''` | `mongodb+srv://user:pass@cluster.mongodb.net/mydb` |
+| `POSTGRES_URL` | PostgreSQL connection URL | `''` | `postgresql://user:pass@host:port/mydb` |
+| `MYSQL_URL` | MySQL connection URL | `''` | `mysql://user:pass@host:port/mydb` |
+| `DB_URL` | SQLite database path | `''` | `./data/baileys.db` |
 
 ---
 
@@ -587,171 +492,58 @@ DB_URL=./data/baileys.db
 
 | Script | Description |
 |---|---|
-| `npm start` | Start the bot |
-| `npm run start:optimized` | Start with 512MB memory cap *(cloud use)* |
-| `npm run start:fresh` | Reset data files then start |
-| `npm run dev` | Watch mode with auto-restart |
-| `npm run reset-data` | Re-initialize all JSON data files |
-| `npm run reset-session` | Delete `session/` folder |
-| `npm run lint` | Run ESLint |
-| `npm test` | Run all tests |
+| `start` | Starts the bot in production mode |
+| `dev` | Starts the bot in development mode (with `nodemon`) |
+| `test` | Runs all tests |
+| `lint` | Lints the codebase |
+| `format` | Formats the codebase |
 
 ---
 
 ## 🔌 Plugin System
 
-> [!IMPORTANT]
-> Plugins live in `plugins/` and are auto-loaded on startup — no registration needed. Each file must export a `default` object.
+AURORA features a powerful plugin system:
 
-### Plugin Template
-
-```js
-export default {
-    command: 'mycommand',
-    aliases: ['mc', 'mycmd'],
-    category: 'utility',
-    description: 'Does something cool',
-    usage: '.mycommand <input>',
-
-    // Optional permission flags
-    ownerOnly: false,      // Owner/sudo only
-    groupOnly: false,      // Groups only
-    adminOnly: false,      // Group admins only
-    isPrefixless: true,    // Works without prefix too
-    cooldown: 5,           // Cooldown in seconds
-
-    async handler(sock: any, message: any, args: any[], context: any = {}) {
-        const {
-            chatId,           // Chat JID
-            senderId,         // Sender JID
-            isGroup,          // boolean
-            isSenderAdmin,    // boolean
-            isBotAdmin,       // boolean
-            senderIsOwnerOrSudo, // boolean
-            rawText,          // Full message text
-            userMessage,      // Lowercase message
-            config,           // Bot configuration 
-            channelInfo       // AURORA branding spread
-        } = context;
-
-        await sock.sendMessage(chatId, {
-            text: `You said: ${args.join(' ')}`,
-            ...channelInfo
-        }, { quoted: message });
-    }
-};
-```
+- **Auto-loading:** Simply drop a `.js` file into the `plugins/` directory, and the bot will automatically load it as a new command.
+- **Hot-reloading:** Plugins are hot-reloaded on changes, allowing for rapid development without restarting the bot.
+- **Modular:** Each command is an independent module, making it easy to add, remove, or modify features.
 
 ---
 
 ## 🔧 Troubleshooting
 
-### Bot not connecting
-
-> [!IMPORTANT]
-> - Verify `SESSION_ID` starts with `GlobalTechInfo/AURORA_`
-> - If using `PAIRING_NUMBER`, link within 60 seconds of the code appearing
-> - Reset session and reconnect: `npm run reset-session && npm start`
-
-### `myAppStateKey not present` (pin/star broken)
-
-Session lost its app state keys. Fix:
-
-```bash
-node -e "
-const fs = require('fs');
-const c = JSON.parse(fs.readFileSync('session/creds.json','utf8'));
-delete c.myAppStateKeyId;
-fs.writeFileSync('session/creds.json', JSON.stringify(c, null, 2));
-console.log('Done');
-"
-npm start
-```
-
-Send any message to the bot — WhatsApp re-syncs keys automatically. They are now preserved across restarts.
-
-### Commands not responding
-
-- Check you're using the right prefix (default `.`)
-- `COMMAND_MODE=private` → only owner can use commands
-- `OWNER_NUMBER` must have no `+` sign
-
-### Data lost after restart
-
-> [!CAUTION]
-> Cloud platforms reset the filesystem on redeploy. Add `MONGO_URL` to use MongoDB — [MongoDB Atlas](https://cloud.mongodb.com) has a free tier.
-
-### Port conflict
-
-```bash
-PORT=3000 npm start
-```
-
----
-
-## 🧪 Testing
-
-The codebase has a comprehensive test suite covering all core systems:
-
-```bash
-npm test                # Run all 178 tests
-npm run test:coverage   # Run with coverage report
-npm run test:watch      # Watch mode during development
-```
-
-| Test Suite | What's Covered |
-|---|---|
-| Unit — `myfunc` | 21 utility function tests with real input/output assertions |
-| Unit — `commandHandler` | Command registration, alias routing, toggle, suggestions |
-| Unit — `isOwner` | JID matching, device suffix stripping, sudo checks |
-| Unit — `isBanned` | File-based ban list read/write |
-| Unit — `paths` | Data directory resolution |
-| Integration — plugins | ALL plugins load, no duplicate commands/aliases, correct field types |
-| Integration — `messageHandler` | Full message flow, banned users, error handling |
-| Integration — group events | add/remove/promote/demote without crashing |
-| Integration — call handling | Anticall reject, warn, empty call safety |
-
-> Uses [Vitest](https://vitest.dev) with a custom Baileys socket mock that simulates real WhatsApp message flows without requiring a live connection.
+- **Bot not connecting:** Ensure your `SESSION_ID` or `PAIRING_NUMBER` is correctly set in `.env` and your internet connection is stable.
+- **Commands not working:** Check if the command prefix is correct and if the bot has the necessary permissions in the group.
+- **Error messages:** Refer to the console logs for detailed error messages. Common issues include missing API keys or incorrect command usage.
+- **Memory issues:** If the bot consumes too much RAM, consider reducing `MAX_STORE_MESSAGES` in `.env` or deploying on a more powerful server.
 
 ---
 
 ## 🤝 Contributing
 
-1. Fork the repo
-2. Create your plugin in `plugins/yourfeature.ts`
-3. Follow the plugin template above
-4. Test thoroughly
-5. Open a Pull Request
-
----
-
-## 📞 Support
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Global_TechInfo)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
-[![GitHub Issues](https://img.shields.io/badge/GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlobalTechInfo/AURORA/issues)
-
-</div>
-
----
-
-## ⚠️ Disclaimer
-
-> [!CAUTION]
-> This project is **not affiliated with WhatsApp Inc.** Use responsibly and within [WhatsApp's Terms of Service](https://www.whatsapp.com/legal/terms-of-service). The developers are not responsible for account bans or misuse.
+Contributions are welcome! Feel free to open issues or submit pull requests on the GitHub repository.
 
 ---
 
 ## 📄 License
 
-[MIT License](LICENSE) · Made with ❤️ by **Qasim Ali** · [GlobalTechInfo](https://github.com/GlobalTechInfo)
+This project is licensed under the MIT License.
+
+---
+
+## ✨ Credits
+
+- [Baileys](https://github.com/WhiskeySockets/Baileys) for the WhatsApp Web API
+- [GlobalTechInfo](https://github.com/GlobalTechInfo) for the original MEGA-MD base
+- [lolhuman.xyz](https://api.lolhuman.xyz/) for various APIs
+- [hackertarget.com](https://hackertarget.com/) for security APIs
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-⭐ **If this project helped you, please give it a star!** ⭐
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GlobalTechInfo)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07)
+[![GitHub Issues](https://img.shields.io/github/issues/Kallypsoh254/MEGA-MD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kallypsoh254/MEGA-MD/issues)
 
 </div>
