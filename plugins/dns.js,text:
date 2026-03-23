@@ -1,0 +1,33 @@
+import axios from 'axios';
+
+export default {
+    command: 'dns',
+    category: 'security',
+    description: 'Perform DNS lookup on a domain',
+    usage: '.dns <domain>',
+    async handler(sock, message, args) {
+        const chatId = message.key.remoteJid;
+        const domain = args[0];
+        if (!domain) {
+            return await sock.sendMessage(chatId, { text: '❌ Please provide a domain. Usage: .dns <domain>' }, { quoted: message });
+        }
+
+        await sock.sendMessage(chatId, { text: `🔍 Performing DNS lookup on *${domain}*...` }, { quoted: message });
+
+        try {
+            const response = await axios.get(`https://api.hackertarget.com/dnslookup/?q=${domain}`);
+            const result = response.data;
+
+            const caption = `╔══════════════════════════╗\n` +
+                            `  💀 DARKCORE DNS LOOKUP\n` +
+                            `╚══════════════════════════╝\n\n` +
+                            `🌐 *Target:* ${domain}\n\n` +
+                            `📊 *Results:*\n${result}\n\n` +
+                            `_Showing DNS records_`;
+
+            await sock.sendMessage(chatId, { text: caption }, { quoted: message });
+        } catch (error) {
+            await sock.sendMessage(chatId, { text: `❌ Error performing DNS lookup: ${error.message}` }, { quoted: message });
+        }
+    }
+};
